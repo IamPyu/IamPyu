@@ -1,3 +1,3 @@
-# seania0
+# IamPyu
 
-Hi, I like to code.
+I am Pyu.
